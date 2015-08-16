@@ -5,7 +5,7 @@ instalar mysql and django with django/python34
 ```js
   pip install PyMySQL
 ```
-2. ir a *{project}/settings.py* y colocar antes de las configuraciones `DATABASE`
+2. ir a **{project}/settings.py** y colocar antes de las configuraciones `DATABASE`
 
 ```py
   import pymysql
