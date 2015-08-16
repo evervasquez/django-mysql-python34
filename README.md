@@ -11,3 +11,7 @@ instalar mysql and django with django/python34
   import pymysql
   pymysql.install_as_MySQLdb()
 ```
+3. correr el comando
+```py
+  python manage.py migrate
+```
